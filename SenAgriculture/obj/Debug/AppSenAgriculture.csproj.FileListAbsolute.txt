@@ -1,0 +1,206 @@
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\AppSenAgriculture.exe.config
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\AppSenAgriculture.exe
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\AppSenAgriculture.pdb
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.frmConnexion.resources
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.frmMDI.resources
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Properties.Resources.resources
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Views.Parametre.frmCategorie.resources
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Views.Parametre.frmProduit.resources
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.exe
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.pdb
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\MySql.Data.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\System.Buffers.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\System.IO.Pipelines.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\System.Memory.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\ZstdSharp.dll
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\Google.Protobuf.pdb
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\MySql.Data.xml
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\System.Buffers.xml
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\System.IO.Pipelines.xml
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\System.Memory.xml
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAg.0460E92B.Up2Date
+C:\Users\HP\source\repos\L3glGroupe22026\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Views.Parametre.frmLieu.resources
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\AppSenAgriculture.exe.config
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\AppSenAgriculture.exe
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\AppSenAgriculture.pdb
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\MySql.Data.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Buffers.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.IO.Pipelines.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Memory.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\ZstdSharp.dll
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\Google.Protobuf.pdb
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\MySql.Data.xml
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Buffers.xml
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.IO.Pipelines.xml
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Memory.xml
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.frmConnexion.resources
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.frmMDI.resources
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Properties.Resources.resources
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Views.Parametre.frmCategorie.resources
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Views.Parametre.frmLieu.resources
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Views.Parametre.frmProduit.resources
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAg.0460E92B.Up2Date
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.exe
+C:\Users\USER\source\repos\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.pdb
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\AppSenAgriculture.exe.config
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\AppSenAgriculture.exe
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\AppSenAgriculture.pdb
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\EntityFramework.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\Google.Protobuf.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\MySql.Data.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Buffers.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.IO.Pipelines.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Memory.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\ZstdSharp.dll
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\EntityFramework.xml
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\Google.Protobuf.pdb
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\Google.Protobuf.xml
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\MySql.Data.xml
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Buffers.xml
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.IO.Pipelines.xml
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Memory.xml
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.csproj.AssemblyReference.cache
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.frmConnexion.resources
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.frmMDI.resources
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Properties.Resources.resources
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Views.Parametre.frmCategorie.resources
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Views.Parametre.frmLieu.resources
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Views.Parametre.frmProduit.resources
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.csproj.GenerateResource.cache
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.csproj.CoreCompileInputs.cache
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAg.0460E92B.Up2Date
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.exe
+C:\Users\kanou\source\repos\SenAgriculture (1)\SenAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.pdb
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\AppSenAgriculture.exe.config
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\AppSenAgriculture.exe
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\AppSenAgriculture.pdb
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\Google.Protobuf.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\MySql.Data.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Buffers.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.IO.Pipelines.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Memory.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\ZstdSharp.dll
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\Google.Protobuf.pdb
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\Google.Protobuf.xml
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\MySql.Data.xml
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Buffers.xml
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.IO.Pipelines.xml
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Memory.xml
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.frmConnexion.resources
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.frmMDI.resources
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Properties.Resources.resources
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Views.Parametre.frmCategorie.resources
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Views.Parametre.frmLieu.resources
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Views.Parametre.frmProduit.resources
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAg.0460E92B.Up2Date
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.exe
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.pdb
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Migrations.InitialCreate.resources
+C:\Users\hp\source\repos\exam\senAgriculture\SenAgriculture\AppSenAgriculture\obj\Debug\AppSenAgriculture.Views.Parametre.frmUtilisateur.resources
